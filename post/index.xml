@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Kerman&#39;s Blog</title>
+        <link>https://example.org/post/</link>
+        <description>Recent content in Posts on Kerman&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Kerman</copyright>
+        <lastBuildDate>Tue, 22 Sep 2026 21:07:27 +0800</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Test1</title>
+            <link>https://example.org/p/test1/</link>
+            <pubDate>Tue, 22 Sep 2026 21:07:27 +0800</pubDate>
+            <guid>https://example.org/p/test1/</guid>
+            <description></description>
+        </item><item>
+            <title>Myfirstblog</title>
+            <link>https://example.org/p/myfirstblog/</link>
+            <pubDate>Tue, 22 Sep 2026 19:51:05 +0800</pubDate>
+            <guid>https://example.org/p/myfirstblog/</guid>
+            <description>&lt;h1 id=&#34;好舒服啊&#34;&gt;好舒服啊&#xA;&lt;/h1&gt;</description>
+        </item></channel>
+</rss>
